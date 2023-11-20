@@ -3,7 +3,7 @@
 
 # Demo
 
-[https://admin-menu-restaurant.netlify.app](https://client-menu-resturant.netlify.app/)
+[https://client-menu-resturant.netlify.app](https://client-menu-resturant.netlify.app/)
 
 ## Configuration
 1. create file .env
